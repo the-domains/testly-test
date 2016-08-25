@@ -1,4 +1,3 @@
-layout_spectrum: 0.2873070265632123
 typography_spectrum: 0.9957049142103642
 color:
   brandStrength: 0.49632320110686123
@@ -11,4 +10,6 @@ color:
     - '#FFFCC4'
     - '#F0EDBB'
     - '#FF3800'
+layout_spectrum: 0.2873070265632123
 name: testly test
+title: Testly Test
