@@ -1,0 +1,14 @@
+layout_spectrum: 0.2873070265632123
+typography_spectrum: 0.9957049142103642
+color:
+  brandStrength: 0.49632320110686123
+  lightness: 0.9709857422858477
+  saturation: 0.8659712176304311
+  rhythmicContrast: 0.6484817839227617
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+name: testly test
